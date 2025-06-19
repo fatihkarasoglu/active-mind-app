@@ -1,51 +1,15 @@
-# Welcome to your Expo app 👋
+# Hello, Merhaba!
+TR - Zinde Zihin: Yaşlıların günlük tansiyon ölçümlerini grafikler halinde oluşturabilecekleri, basit bulmaca oyunlarıyla zihinlerini çalıştırabilecekleri mobil uygulamam. Bütçe sorunları sebebirle App Store ve Play Store'da yayınlanamadı.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+EN - Active Mind: My mobile application where elderly people can create charts with their daily blood pressure measurements and exercise their minds with simple puzzle games. Due to budget problems, it could not be published on the App Store and Play Store.
 
-## Get started
 
-1. Install dependencies
+![Image](https://github.com/user-attachments/assets/fd4247e9-c198-49ac-b1c8-eac6c72def6b)
 
-   ```bash
-   npm install
-   ```
+![Image](https://github.com/user-attachments/assets/2518e836-c54c-4696-8d6c-50a133e74448)
 
-2. Start the app
+![Image](https://github.com/user-attachments/assets/32acc72e-c7b9-4bdc-850f-1527201eab4a)
 
-   ```bash
-   npx expo start
-   ```
+![Image](https://github.com/user-attachments/assets/939d20ac-6593-4b98-843b-4edc0c038ccc)
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-"# active-mind-app" 
+![Image](https://github.com/user-attachments/assets/2a119f19-3f44-42c1-ab66-fa02d611c359)
